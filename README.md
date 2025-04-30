@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm [MONISH R]
 
-<!--
-**MonishDoss/MonishDoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineer | 💡 Tech Enthusiast | 🎯 Lifelong Learner
 
-Here are some ideas to get you started:
+I'm a passionate developer focused on building impactful software using modern technologies. I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **Artificial Intelligence & Machine Learning**
+- 🛠️ **Backend Development (Spring Boot, Node.js)**
+- 🌐 **Full-Stack Web Development (React.js, Next.js, Prisma)**
+- 📱 **IoT & Embedded Systems (Raspberry Pi, STM32, ESP)**
+
+---
+
+### 🚀 Projects & Highlights
+
+- 🥇 **Hackathon Winner** – Real-time Video Conferencing App (Spring Boot + React + Python CV)
+- 🤖 **Smart Traffic Automation** – Raspberry Pi + AI for emergency vehicle detection
+- 🏥 **Hospital Automation** – Real-time vital monitoring and alerting system
+- 🔐 **Secure Blockchain Chat App** – Built from scratch with Java + Spring Boot
+
+---
+
+### 🧰 Tech Stack
+
+**Languages:**  
+Java, Python, C++, JavaScript, TypeScript
+
+**Frameworks & Libraries:**  
+Spring Boot, React, Next.js, Tailwind, Express.js, OpenCV
+
+**Tools & Platforms:**  
+Git, GitHub, Docker, Firebase, MySQL, PostgreSQL, Linux
+
+**Others:**  
+Clerk Auth, Prisma, Drizzle ORM, REST APIs, WebRTC, Figma
+
+---
+
+### 📫 Let's Connect!
+
+- 📧 Email: [monishdoss2005@gmail.com.com](mailto:monishdoss2005@gmail.com.com)
+- 📝 [Resume](https://link-to-resume.com)
+- 💼 [LinkedIn](www.linkedin.com/in/monishdoss)
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
