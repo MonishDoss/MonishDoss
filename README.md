@@ -62,8 +62,8 @@ I'm a passionate developer focused on building impactful software using modern t
 
 ## 📫 Let's Connect!
 
+- 📧 Email: [monishdoss2005@gmail.com](mailto:monishdoss2005@gmail.com)  
+- 📞 Contact: [+91 8608550162](tel:+918608550162)  
 - 💻 [GitHub](https://github.com/MonishDoss)  
 - 🔗 [LinkedIn](https://linkedin.com/in/monishdoss)  
 - 📄 [Resume](https://github.com/MonishDoss/my-resume/blob/main/Monish_R_Java_FullStack_Intern_Resume.p.pdf)  
-- 📧 Email: [monishdoss2005@gmail.com](mailto:monishdoss2005@gmail.com)  
-- 📞 Contact: [+91 8608550162](tel:+918608550162)  
