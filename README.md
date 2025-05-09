@@ -60,12 +60,10 @@ I'm a passionate developer focused on building impactful software using modern t
 
 ---
 
-<h2>📫 Let's Connect!</h2>
-    <ul>
-        <li>💻 <a href="https://github.com/MonishDoss" target="_blank">GitHub</a></li>
-        <li>🔗 <a href="https://linkedin.com/in/monishdoss" target="_blank">LinkedIn</a></li>
-        <li>📄 <a href="https://github.com/MonishDoss/my-resume/blob/main/Monish_R_Java_FullStack_Intern_Resume.p.pdf" target="_blank">Resume</a></li>
-        <li>📧 Email: <a href="mailto:monishdoss2005@gmail.com">your-email@example.com</a></li>
-        <li>📞 Contact: +91 8608550162</li>
-    </ul>
+## 📫 Let's Connect!
 
+- 💻 [GitHub](https://github.com/MonishDoss)  
+- 🔗 [LinkedIn](https://linkedin.com/in/monishdoss)  
+- 📄 [Resume](https://github.com/MonishDoss/my-resume/blob/main/Monish_R_Java_FullStack_Intern_Resume.p.pdf)  
+- 📧 Email: [monishdoss2005@gmail.com](mailto:monishdoss2005@gmail.com)  
+- 📞 Contact: [+91 8608550162](tel:+918608550162)  
