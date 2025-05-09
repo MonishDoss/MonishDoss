@@ -39,6 +39,6 @@ Clerk Auth, Prisma, Drizzle ORM, REST APIs, WebRTC, Figma
 ### 📫 Let's Connect!
 
 - 📧 Email: [monishdoss2005@gmail.com](mailto:monishdoss2005@gmail.com.com)
-- 📝 [Resume](Monish_R_Java_FullStack_Intern_Resume.p.pdf)
+- 📝 [Resume](/my-resume/blob/main/Monish_R_Java_FullStack_Intern_Resume.p.pdf))
 - 💼 [LinkedIn](www.linkedin.com/in/monishdoss)
   
