@@ -7,7 +7,7 @@ I'm a passionate developer focused on building impactful software using modern t
 - 🧠 **Artificial Intelligence & Machine Learning**
 - 🛠️ **Backend Development (Spring Boot, Node.js)**
 - 🌐 **Full-Stack Web Development (React.js, Next.js, Prisma)**
-- 📱 **IoT & Embedded Systems (Raspberry Pi, STM32, ESP)**
+- 📱 **IoT & Embedded Systems (Raspberry Pi, STM32, ESP, Arduino)**
 
 ---
 
