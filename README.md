@@ -1,43 +1,68 @@
-# 👋 Hi, I'm [MONISH R]
+# 👋 Hi, I'm Monish R
 
 ### 💻 Software Engineer | 💡 Tech Enthusiast | 🎯 Lifelong Learner
 
-I'm a passionate developer focused on building impactful software using modern technologies. I specialize in:
+I'm a passionate developer focused on building impactful software using modern technologies.
 
-- 🧠 **Artificial Intelligence & Machine Learning**
-- 🛠️ **Backend Development (Spring Boot, Node.js)**
-- 🌐 **Full-Stack Web Development (React.js, Next.js, Prisma)**
-- 📱 **IoT & Embedded Systems (Raspberry Pi, STM32, ESP, Arduino)**
+---
+
+### 💡 Areas of Expertise
+
+- 🌐 **Full-Stack Development**  
+  Building end-to-end web applications using **React.js**, **Next.js**, **Node.js**, **Spring Boot**, **Prisma**, and **Tailwind CSS**.
+
+- 🎨 **Frontend Development**  
+  Creating responsive and intuitive UIs with **React.js**, **Next.js**, **Tailwind CSS**, and **Framer Motion**.
+
+- 🛠️ **Backend Development**  
+  Designing scalable and secure APIs using **Spring Boot** (Java) and **Node.js**, supporting RESTful services and real-time processing.
+
+- 🗃️ **Database Management**  
+  Handling data efficiently with **PostgreSQL**, **MySQL**, **MongoDB**, and **Firebase**, using modern ORMs like **Prisma** and **Drizzle**.
+
+- 🧠 **Artificial Intelligence & Machine Learning**  
+  Creating intelligent systems using **Python**, **OpenCV**, and ML libraries — integrated into real-time, high-impact applications.
+
+- 📡 **IoT & Embedded Systems**  
+  Developing hardware-powered automation projects with **Raspberry Pi**, **STM32**, **ESP**, and **Arduino**.
 
 ---
 
 ### 🚀 Projects & Highlights
 
-- 🥇 **Hackathon Winner** – Real-time Video Conferencing App (Spring Boot + React + Python CV)
-- 🤖 **Smart Traffic Automation** – Raspberry Pi + AI for emergency vehicle detection
-- 🏥 **Hospital Automation** – Real-time vital monitoring and alerting system
-- 🔐 **Secure Blockchain Chat App** – Built from scratch with Java + Spring Boot
+- 🥇 **Hackathon Winner** – *Real-time Video Conferencing App*  
+  Built using **Spring Boot**, **React.js**, and **Python (OpenCV)**, with eye-tracking and facial motion detection.
+
+- 🤖 **Smart Traffic Automation**  
+  Designed an AI-based system using **Raspberry Pi** to detect emergency vehicles and dynamically adjust traffic signals.
+
+- 🏥 **Hospital Automation System**  
+  Developed a real-time vital monitoring and alerting system using **Raspberry Pi**, sensors like **MAX30102** and **DHT22**, and Python.
+
+- 🔐 **Blockchain-Based Secure Chat App**  
+  Created a decentralized, secure messaging app from scratch with **Java** and **Spring Boot**, utilizing blockchain for message encryption.
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages:**  
-Java, Python, C++, JavaScript, TypeScript
+#### **Languages**  
+- `Java`, `Python`, `C`, `C++`, `JavaScript`, `TypeScript`, `SQL`, `HTML`, `CSS`
 
-**Frameworks & Libraries:**  
-Spring Boot, React, Next.js, Tailwind, Express.js, OpenCV
+#### **Frameworks & Libraries**  
+- `Spring Boot`, `React.js`, `Next.js`, `Tailwind CSS`, `Express.js`, `Framer Motion`, `OpenCV`
 
-**Tools & Platforms:**  
-Git, GitHub, Docker, Firebase, MySQL, PostgreSQL, Linux
+#### **Databases & Tools**  
+- `PostgreSQL`, `MySQL`, `MongoDB`, `Firebase`, `Prisma`, `Drizzle ORM`, `Docker`, `Git`, `Linux`
 
-**Others:**  
-Clerk Auth, Prisma, Drizzle ORM, REST APIs, WebRTC, Figma
+#### **Other Tools & Technologies**  
+- `Clerk Auth`, `REST APIs`, `WebRTC`, `Figma`, `Microservices`, `Sensor Integration`
 
 ---
 
 ### 📫 Let's Connect!
-  - <a href="https://github.com/MonishDoss" target="_blank">💻 GitHub</a><br>
-  - <a href="https://linkedin.com/in/monishdoss" target="_blank">🔗 LinkedIn</a><br>
-  - <a href="https://github.com/MonishDoss/my-resume/blob/main/Monish_R_Java_FullStack_Intern_Resume.p.pdf" target="_blank">📄 Resume</a><br>
-  
+
+- 💻 [GitHub](https://github.com/MonishDoss)  
+- 🔗 [LinkedIn](https://linkedin.com/in/monishdoss)  
+- 📄 [Resume](https://github.com/MonishDoss/my-resume/blob/main/Monish_R_Java_FullStack_Intern_Resume.p.pdf)
+
