@@ -38,6 +38,6 @@ Clerk Auth, Prisma, Drizzle ORM, REST APIs, WebRTC, Figma
 
 ### 📫 Let's Connect!
   <a href="https://github.com/MonishDoss" target="_blank">💻 GitHub</a> •<br>
-  <a href="https://linkedin.com/in/monishdoss" target="_blank">🔗 LinkedIn</a>
+  <a href="https://linkedin.com/in/monishdoss" target="_blank">🔗 LinkedIn</a> .<br>
   <a href="https://github.com/MonishDoss/my-resume/blob/main/Monish_R_Java_FullStack_Intern_Resume.p.pdf" target="_blank">📄 Resume</a> •<br>
   
